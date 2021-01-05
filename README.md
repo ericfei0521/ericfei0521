@@ -8,4 +8,9 @@ Hope can make this world a little bit better and fancy through 3D skills and cod
 I am a efficient team player and love to learn new skills , open mind thinking and always try to create or solve problems 
 through many different ways.
 
-##Project Link
+### Projects
+
+### Resume
+**[Resume](https://www.cakeresume.com/eric-fei)**
+
+### Contact Me
