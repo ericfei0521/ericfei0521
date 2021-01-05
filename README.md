@@ -8,9 +8,42 @@ Hope can make this world a little bit better and fancy through 3D skills and cod
 I am a efficient team player and love to learn new skills , open mind thinking and always try to create or solve problems 
 through many different ways.
 
-### Projects
+## Skills 
+Language:                              
+* Html5                    
+* CSS3 (Scss)               
+* JavaScript (ES6)
 
-### Resume
-**[Resume](https://www.cakeresume.com/eric-fei)**
+Framework  : 
+* React/React
+* Redux/Redux-Thunk
+* Bootstrap
+
+Libraries/API:
+* react-beautiful-dnd
+* SOCKET.IO
+* react-chartjs-2
+
+User interface & Cloud Service
+* Responsive Web Design ( RWD)
+* Firebase Authentication/Storage/Firestore
+
+Networking:
+* RESTful APIs
+* AJAX
+
+Tools & Knowledge:
+* Module Bundler: Webpack
+* Version Control: Git/GitHub
+* Lint Tool: ESLint
+* Agile Software Development
+* MVC design patterns
+
+### Projects
+![THE RAVEN](https://media.giphy.com/media/xqT3goUqtnLFBFeVce/giphy.gif) [Link](https://the-raven-a298b.web.app/) 
+
 
 ### Contact Me
+
+
+**[Resume](https://www.cakeresume.com/eric-fei)**
