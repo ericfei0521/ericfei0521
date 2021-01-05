@@ -9,8 +9,8 @@ I am a efficient team player and love to learn new skills , open mind thinking a
 through many different ways.
 
 ## Skills 
-Language       : Html5/CSS3(Scss)/JavaScript(ES6)
-Framework      : React/React-Router/Redux/Redux-Thunk/bootstrap
+Language       : Html5/CSS3(Scss)/JavaScript(ES6)</br>
+Framework      : React/React-Router/Redux/Redux-Thunk/bootstrap</br>
 Libraries/API  : react-beautiful-dnd/SOCKET.IO/react-chartjs-2/3rd Party Login</br>
 User interface : Responsive Web Design ( RWD)/SVG Scss</br>
 Cloud Service  : Firebase Authentication/Storage/Firestore</br>
