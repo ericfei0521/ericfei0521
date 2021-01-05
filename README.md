@@ -25,7 +25,7 @@ MVC design patterns
 #### [THE RAVEN](https://the-raven-a298b.web.app/) 
 ![THE RAVEN](https://media.giphy.com/media/xqT3goUqtnLFBFeVce/giphy.gif) </br>
 #### [STYLiSH](https://stylish-ecommerce-demo.web.app/) 
-![THE RAVEN](https://media.giphy.com/media/xqT3goUqtnLFBFeVce/giphy.gif) </br>
+![THE RAVEN](https://media.giphy.com/media/aTXR9VEn9M2jWRR6il/giphy.gif) </br>
 
 ### Contact Me
 
