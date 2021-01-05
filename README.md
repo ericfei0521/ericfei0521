@@ -22,8 +22,8 @@ Agile Software Development</br>
 MVC design patterns
 
 ### Projects
+#### [THE RAVEN](https://the-raven-a298b.web.app/) 
 ![THE RAVEN](https://media.giphy.com/media/xqT3goUqtnLFBFeVce/giphy.gif) </br>
-# [THE RAVEN](https://the-raven-a298b.web.app/) 
 
 
 ### Contact Me
