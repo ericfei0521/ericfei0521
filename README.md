@@ -30,4 +30,4 @@ MVC design patterns
 ### Contact Me
 
 
-**[Resume](https://www.cakeresume.com/eric-fei)**
+**[Resume](https://www.cakeresume.com/eric-fei/)**
