@@ -10,8 +10,8 @@ through many different ways.
 
 ## Skills 
 Language       : Html5/CSS3(Scss)/JavaScript(ES6)<br>
-Framework      : React/React-Router/Redux/Redux-Thunk/ootstrap <br>                           
-Libraries/API  : react-beautiful-dnd/SOCKET.IO/react-chartjs-2/3rd Party Login
+Framework      : React/React-Router/Redux/Redux-Thunk/bootstrap<br>                       
+Libraries/API  : react-beautiful-dnd/SOCKET.IO/react-chartjs-2/3rd Party Login<br>
 User interface : Responsive Web Design ( RWD)/SVG Scss<br>
 Cloud Service  : Firebase Authentication/Storage/Firestore<br>
 Networking     : RESTful APIs/AJAX<br> 
