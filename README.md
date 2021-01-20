@@ -9,15 +9,15 @@ I am a efficient team player and love to learn new skills , open mind thinking a
 through many different ways.
 
 ## Skills 
-Language       : Html5/CSS3(Scss)/JavaScript(ES6)</br>
-Framework      : React/React-Router/Redux/Redux-Thunk/bootstrap</br>
-Libraries/API  : react-beautiful-dnd/SOCKET.IO/react-chartjs-2/3rd Party Login</br>
-User interface : Responsive Web Design ( RWD)/SVG Scss</br>
-Cloud Service  : Firebase Authentication/Storage/Firestore</br>
-Networking     : RESTful APIs/AJAX</br> 
-Module Bundler : Webpack</br>
-Version Control: Git/GitHub</br>
-Lint Tool      : ESLint</br>
+Front-End Skills : Html5/CSS3(Scss)/JavaScript(ES6)</br>
+Framework        : React/React-Router/Redux/Redux-Thunk/bootstrap</br>
+Libraries/API    : react-beautiful-dnd/SOCKET.IO/react-chartjs-2/3rd Party Login</br>
+User interface   : Responsive Web Design ( RWD)/SVG Scss</br>
+Cloud Service    : Firebase Authentication/Storage/Firestore</br>
+Networking       : RESTful APIs/AJAX</br> 
+Module Bundler   : Webpack</br>
+Version Control  : Git/GitHub</br>
+Lint Tool        : ESLint</br>
 Agile Software Development</br>
 MVC design patterns
 
