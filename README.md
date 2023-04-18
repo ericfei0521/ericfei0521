@@ -8,17 +8,43 @@ I am a efficient team player and love to learn new skills , open mind thinking a
 through many different ways.
 
 ## Skills 
-Front-End Skills : Html5/CSS3(Scss)/JavaScript(ES6)</br>
-Framework        : React/React-Router/Redux/Redux-Thunk/bootstrap</br>
-Libraries/API    : react-beautiful-dnd/SOCKET.IO/react-chartjs-2/3rd Party Login</br>
-User interface   : Responsive Web Design ( RWD)/SVG Scss</br>
-Cloud Service    : Firebase Authentication/Storage/Firestore</br>
-Networking       : RESTful APIs/AJAX</br> 
-Module Bundler   : Webpack</br>
-Version Control  : Git/GitHub</br>
-Lint Tool        : ESLint</br>
-Agile Software Development</br>
-MVC design patterns
+### Markup and Styling:</br>
+
+HTML5</br>
+CSS3 (SCSS)</br>
+Tailwind-CSS</br>
+### JavaScript Frameworks/Libraries:</br>
+React (Hooks)</br>
+Redux</br>
+Redux-Thunk</br>
+Redux-Saga</br>
+React Router</br>
+Next.js</br>
+Formik</br>
+react-beautiful-dnd</br></br>
+### JavaScript Language Features:</br>
+JavaScript (ES6)</br>
+TypeScript</br>
+APIs:</br>
+RESTful APIs</br>
+GraphQL (GQL)</br>
+socket.io</br></br>
+### Database and Authentication:</br>
+Firebase Authentication</br>
+Firebase Storage</br>
+Firestore</br></br>
+### Development Tools:</br>
+Git/GitHub</br>
+GitLab</br>
+GitLab CI/CD</br>
+ESLint</br>
+Agile/Scrum</br>
+Storybook</br></br>
+### Other:</br>
+Styled-Component</br>
+Responsive Web Design (RWD)</br>
+Frontitude (UX writer tool)</br>
+amplitude</br>
 
 ### Projects
 #### [THE RAVEN](https://the-raven-a298b.web.app/) 
