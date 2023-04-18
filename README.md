@@ -1,6 +1,5 @@
 ### Hi there, I am Chun Yen Fei  👋 
 
-Hello, my name is Chun Yen Fei 👋
 I'm a Front-End Developer with a background in project management and VFX artistry, and I specialize in creating modern, user-friendly interfaces. I have completed a high-intensity program that enabled me to accomplish two major projects in just four months: a pure JS e-commerce website and a project management platform built with React framework.
 My passion is to use my 3D skills and coding abilities to make the world a better and more aesthetically pleasing place.
 I am an efficient team player who loves to learn new skills and has an open-minded approach to problem-solving, always striving to find innovative solutions to complex challenges.
