@@ -1,8 +1,13 @@
-### Hi there, I am Chun Yen Fei  👋 
+Hello everyone, I'm Chun Yen Fei 👋, an experienced front-end engineer with a unique blend of project management and visual effects expertise, boasting three years of practical experience.
 
-As a skilled Front-End Developer, I bring a diverse background in project management and VFX artistry to my work, specializing in creating modern, user-friendly interfaces that enhance the user experience. With two major projects already completed in a high-intensity program, including a pure JS e-commerce website and a React-based project management platform, I have developed a solid foundation in front-end development over the past two years, and I'm always striving to improve and grow my skills as a full-stack engineer.
+Throughout my career, I've successfully assisted companies in implementing Jest unit testing and Cypress end-to-end testing methodologies. I've also established a robust design system to enhance UI development, actively engaging in discussions on business solutions and proposing cross-codebase front-end implementation architectures.
 
-My passion for programming extends beyond just creating aesthetically pleasing designs; I'm motivated by using my skills and abilities to make a positive impact in the world. As an efficient team player, I enjoy working collaboratively with others and bring an open-minded approach to problem-solving, always looking for innovative solutions to complex challenges. I'm eager to continue learning and adapting to new technologies and techniques, and I look forward to contributing my expertise to new projects and teams.
+Colleagues across various stages of my career have consistently referred to me as remarkably efficient. Whether in problem-solving or cross-departmental communication and collaboration, I have a knack for quickly understanding and addressing challenges. This efficiency has been a hallmark of my work, contributing to successful outcomes and positive teamwork dynamics.
+
+Proficient in React.js and its related ecosystem, I adeptly navigate the complexities of web development. Additionally, my skills extend to React Native development, and I also understanding of Python, Node.js,  Express.js and Typescript
+
+Looking ahead, I am enthusiastic about leveraging my diverse skill set to drive innovation and excellence in the ever-evolving field of front-end engineering. I look forward to continuing to apply my expertise in this challenging and opportunity-rich domain.
+
 
 
 ## Skills 
