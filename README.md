@@ -1,12 +1,14 @@
-Hello everyone, I'm Chun Yen Fei 👋, an experienced front-end engineer with a unique blend of project management and visual effects expertise, boasting three years of practical experience.
+Hi , I am Eric , With nearly five years of professional experience in front-end development, I bring a strong command of the React ecosystem, including advanced proficiency in Next.js, TypeScript, Redux, and Redux-Saga. I have a solid track record of delivering scalable, production-ready applications in both B2B and B2C environments, contributing across the full stack with hands-on experience in Express.js and Prisma.
 
-Throughout my career, I've successfully assisted companies in implementing Jest unit testing and Cypress end-to-end testing methodologies. I've also established a robust design system to enhance UI development, actively engaging in discussions on business solutions and proposing cross-codebase front-end implementation architectures.
+Throughout my career, I have taken on leadership roles in driving technical innovation and cross-functional collaboration. I've led front-end architecture design, introduced E2E testing strategies, implemented Storybook for design consistency, and spearheaded the development of scalable Design Systems. I also successfully guided internationalization efforts for two organizations—handling everything from localization strategy and language file management to UI adaptation for global audiences.
 
-Colleagues across various stages of my career have consistently referred to me as remarkably efficient. Whether in problem-solving or cross-departmental communication and collaboration, I have a knack for quickly understanding and addressing challenges. This efficiency has been a hallmark of my work, contributing to successful outcomes and positive teamwork dynamics.
+My background also includes practical experience with GitLab CI/CD, project management, and coordinating requirements across design, product, and engineering teams. This has enabled me to consistently deliver aligned, efficient solutions that scale with product growth.
 
-Proficient in React.js and its related ecosystem, I adeptly navigate the complexities of web development. Additionally, my skills extend to React Native development, and I also understanding of Python, Node.js,  Express.js and Typescript
+Beyond front-end development, I actively explore emerging technologies in back-end systems (such as Golang) and AI, including LangChain, RAG, and AI Agents. I’ve also developed internal tools like MCP—a workflow automation toolkit that integrates Figma and Cursor to generate interactive prototypes—and am currently researching automated code reviews and AI-powered test generation.
 
-Looking ahead, I am enthusiastic about leveraging my diverse skill set to drive innovation and excellence in the ever-evolving field of front-end engineering. I look forward to continuing to apply my expertise in this challenging and opportunity-rich domain.
+I am legally eligible to work in Canada and am open and willing to relocate anywhere within the country. I am excited about the opportunity to bring my experience, leadership, and passion for innovation to your team, and would welcome the chance to discuss how I can contribute to your organization.
+
+Looking forward to the opportunity to connect.
 
 
 
